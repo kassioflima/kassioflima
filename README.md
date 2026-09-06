@@ -9,53 +9,35 @@
   <a href="mailto:kassioflima@gmail.com">E-mail</a>
 </p>
 
-Sobre mim
+---
 
-Sou desenvolvedor com foco em C# e .NET, atuando na construção e evolução de APIs e sistemas escaláveis. Gosto de transformar regras de negócio complexas em soluções simples de manter, com arquitetura clara, dados bem modelados e observabilidade desde o início.
+## Sobre mim
 
-Tenho experiência e interesse em Clean Architecture, DDD, CQRS, mensageria, integração de sistemas, performance de banco de dados e cloud. Também construo interfaces quando o produto precisa de uma visão full stack.
+Sou desenvolvedor com foco em **C# e .NET**, atuando na construção e evolução de APIs e sistemas escaláveis. Gosto de transformar regras de negócio complexas em soluções simples de manter, com arquitetura clara, dados bem modelados e observabilidade desde o início.
 
-Especialidades
+Tenho experiência e interesse em **Clean Architecture, DDD, CQRS, mensageria, integração de sistemas, performance de banco de dados e cloud**. Também construo interfaces quando o produto precisa de uma visão full stack.
 
-APIs e serviços em .NET / ASP.NET Core / C#
+## Especialidades
 
-DDD, Clean Architecture, arquitetura hexagonal e CQRS
+- APIs e serviços em **.NET / ASP.NET Core / C#**
+- **DDD, Clean Architecture, arquitetura hexagonal e CQRS**
+- Sistemas distribuídos e assíncronos com **RabbitMQ, Kafka e AWS SQS**
+- Autenticação e autorização com **OAuth 2.0, OpenID Connect, JWT e Keycloak**
+- Modelagem, consultas e performance em **SQL Server, PostgreSQL, Oracle e MySQL**
+- Cache e dados não relacionais com **Redis e MongoDB**
+- Contêineres e entrega contínua com **Docker, GitHub Actions, Azure DevOps, AWS e Azure**
+- Testes automatizados com **xUnit, Moq, AutoFixture e FluentAssertions**
 
-Sistemas distribuídos e assíncronos com RabbitMQ, Kafka e AWS SQS
+## Projetos em destaque
 
-Autenticação e autorização com OAuth 2.0, OpenID Connect, JWT e Keycloak
+| Projeto | Destaques técnicos |
+| --- | --- |
+| [Vehicle Rental CQRS](https://github.com/kassioflima/vehicle-rental-cqrs) | API .NET para locação de motocicletas; Clean Architecture, DDD, CQRS, MediatR, RabbitMQ, PostgreSQL, JWT, Docker e testes. |
+| [Mediator Behaviors + FluentValidation](https://github.com/kassioflima/MediatorBehaviorsFluentValidation) | Exemplo prático de validações e comportamentos de pipeline com MediatR e FluentValidation. |
+| [Ambev Developer Evaluation](https://github.com/kassioflima/Ambev.DeveloperEvaluation) | Solução .NET com testes automatizados e ambiente conteinerizado. |
+| [Swagger Versioning](https://github.com/kassioflima/SwaggerVersioning) | Referência de versionamento e documentação de APIs Web. |
 
-Modelagem, consultas e performance em SQL Server, PostgreSQL, Oracle e MySQL
-
-Cache e dados não relacionais com Redis e MongoDB
-
-Contêineres e entrega contínua com Docker, GitHub Actions, Azure DevOps, AWS e Azure
-
-Testes automatizados com xUnit, Moq, AutoFixture e FluentAssertions
-
-Projetos em destaque
-
-Projeto
-
-Destaques técnicos
-
-Vehicle Rental CQRS
-
-API .NET para locação de motocicletas; Clean Architecture, DDD, CQRS, MediatR, RabbitMQ, PostgreSQL, JWT, Docker e testes.
-
-Mediator Behaviors + FluentValidation
-
-Exemplo prático de validações e comportamentos de pipeline com MediatR e FluentValidation.
-
-Ambev Developer Evaluation
-
-Solução .NET com testes automatizados e ambiente conteinerizado.
-
-Swagger Versioning
-
-Referência de versionamento e documentação de APIs Web.
-
-Stack principal
+## Stack principal
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -69,14 +51,13 @@ Stack principal
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
-O que estou construindo e estudando
+## O que estou construindo e estudando
 
-Sistemas SaaS multi-tenant e aplicações orientadas a domínio
+- Sistemas SaaS multi-tenant e aplicações orientadas a domínio
+- Integrações assíncronas, processamento em background e resiliência
+- Observabilidade, segurança de APIs e otimização de consultas SQL
+- Aplicações de IA e ML.NET em problemas reais
 
-Integrações assíncronas, processamento em background e resiliência
-
-Observabilidade, segurança de APIs e otimização de consultas SQL
-
-Aplicações de IA e ML.NET em problemas reais
+---
 
 <p align="center">Aberto a conversar sobre .NET, arquitetura, bancos de dados e produtos digitais.</p>
